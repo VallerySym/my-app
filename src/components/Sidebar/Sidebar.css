@@ -1,0 +1,11 @@
+.Sidebar {
+    background-color: burlywood;
+}
+
+.Sidebar-list {
+    list-style-type: none;
+}
+
+.Sidebar-list_link {
+    text-decoration: none;
+}
