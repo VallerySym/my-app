@@ -1,11 +1,11 @@
-.Sidebar {
+.sidebar {
     background-color: burlywood;
 }
 
-.Sidebar-list {
+.list {
     list-style-type: none;
 }
 
-.Sidebar-list_link {
+.link {
     text-decoration: none;
 }

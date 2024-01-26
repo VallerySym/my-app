@@ -1,0 +1,13 @@
+.posts{
+    padding: 20px;
+}
+
+.posts wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input{
+    width: 900px;
+    min-height: 100px;
+}
